@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Wyszukiwarka Seriali</string>
+    <string name="hint">Search for movie</string>
+    <string name="request_error">Cannot download data.</string>
+</resources>
